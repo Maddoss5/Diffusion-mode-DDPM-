@@ -1,25 +1,23 @@
-Results are weird for 88th epoch . It captures symbols perhaps it needs more training :
-
-<img width="28" height="28" alt="ddpm_000" src="https://github.com/user-attachments/assets/247b4305-375e-468d-89f5-225c0d01259a" />
-
-<img width="28" height="28" alt="ddpm_001" src="https://github.com/user-attachments/assets/35234a63-c123-4646-a3a1-cf15230034c4" />
-
-<img width="28" height="28" alt="ddpm_002" src="https://github.com/user-attachments/assets/efe4e83d-455e-4c9c-8693-1833e8f4bea6" />
-
-<img width="28" height="28" alt="ddpm_003" src="https://github.com/user-attachments/assets/5ca47a93-7cc6-40de-9bff-78cb8aa51fd4" />
+Results give new symbols some of them resemble numbers most dont ;
 
 
-<img width="28" height="28" alt="ddpm_004" src="https://github.com/user-attachments/assets/c37645cc-3cbc-496e-bd3c-245d573b59e6" />
-
-<img width="28" height="28" alt="ddpm_005" src="https://github.com/user-attachments/assets/124b3aa0-22a5-4c4b-ab81-da2c8452052f" />
-
-<img width="28" height="28" alt="ddpm_006" src="https://github.com/user-attachments/assets/4195ca40-8540-4407-b32c-2db5c9b9ea1b" />
-
-<img width="182" height="62" alt="ddpm_grid" src="https://github.com/user-attachments/assets/b0baf9ec-93e7-446c-8213-4eb8df5af8ba" />
-
-<img width="28" height="28" alt="ddpm_009" src="https://github.com/user-attachments/assets/dbfb4fe6-0157-4069-957f-b206734aa1a4" />
-
-<img width="28" height="28" alt="ddpm_008" src="https://github.com/user-attachments/assets/0f6413af-18d7-4f98-8577-b9a2c8e0ec79" />
-
-
-<img width="28" height="28" alt="ddpm_007" src="https://github.com/user-attachments/assets/e1c691da-c473-4755-bd06-c8474d01eda4" />
+<img width="152" height="32" alt="Epoch_num=100_ddpm_grid" src="https://github.com/user-attachments/assets/4c2b8ff6-ab12-4cc1-aabc-8b4ccf62c966" />
+<img width="152" height="32" alt="Epoch_num=105_ddpm_grid" src="https://github.com/user-attachments/assets/7c062871-5632-4682-85ac-94e3dff65d08" />
+<img width="152" height="32" alt="Epoch_num=110_ddpm_grid" src="https://github.com/user-attachments/assets/e4d0436a-cbfb-4e75-9d89-ebf50bd3d931" />
+<img width="152" height="32" alt="Epoch_num=115_ddpm_grid" src="https://github.com/user-attachments/assets/c15805a3-e691-455b-9061-4d4d0158b966" />
+<img width="152" height="32" alt="Epoch_num=120_ddpm_grid" src="https://github.com/user-attachments/assets/6d33690c-0fdf-4188-959a-45841662a7b0" />
+<img width="152" height="32" alt="Epoch_num=125_ddpm_grid" src="https://github.com/user-attachments/assets/4a70fd00-5709-4b31-9928-872537a2ad78" />
+<img width="152" height="32" alt="Epoch_num=130_ddpm_grid" src="https://github.com/user-attachments/assets/8042d9ea-6305-40b4-afaa-78d0fff09f7b" />
+<img width="152" height="32" alt="Epoch_num=135_ddpm_grid" src="https://github.com/user-attachments/assets/7502cbc2-6abf-45a9-a635-9bb7e40c52d6" />
+<img width="152" height="32" alt="Epoch_num=140_ddpm_grid" src="https://github.com/user-attachments/assets/3a525f50-c20d-4e41-9455-a7146978c8cd" />
+<img width="152" height="32" alt="Epoch_num=145_ddpm_grid" src="https://github.com/user-attachments/assets/7f785e3d-1744-4cf4-8aeb-1a45f3afba19" />
+<img width="152" height="32" alt="Epoch_num=150_ddpm_grid" src="https://github.com/user-attachments/assets/a5f59594-c7b6-40c2-81ab-cdbf325fa4e4" />
+<img width="152" height="32" alt="Epoch_num=95_ddpm_grid" src="https://github.com/user-attachments/assets/46c44787-3a95-4c80-982c-531f6917ce51" />
+<img width="152" height="32" alt="Epoch_num=60_ddpm_grid" src="https://github.com/user-attachments/assets/2395cdd4-3806-47f4-a350-0c357b039798" />
+<img width="152" height="32" alt="Epoch_num=65_ddpm_grid" src="https://github.com/user-attachments/assets/d4fb8ee4-10cb-445d-a108-d04d9e5667bc" />
+<img width="152" height="32" alt="Epoch_num=70_ddpm_grid" src="https://github.com/user-attachments/assets/abdbd2a8-3da4-4d4b-887f-ffb7f50b863b" />
+<img width="152" height="32" alt="Epoch_num=75_ddpm_grid" src="https://github.com/user-attachments/assets/8af83128-bcf1-48c7-ba74-531bf46d5827" />
+<img width="152" height="32" alt="Epoch_num=80_ddpm_grid" src="https://github.com/user-attachments/assets/b3b27889-75d7-4fb0-8aa1-72bbef4f1946" />
+<img width="152" height="32" alt="Epoch_num=85_ddpm_grid" src="https://github.com/user-attachments/assets/228e4f46-b9e5-41cc-b905-6229fd571b38" />
+<img width="152" height="32" alt="Epoch_num=90_ddpm_grid" src="https://github.com/user-attachments/assets/05afab7e-a3f7-4486-9a7c-0265df95a7b0" />
+<img width="152" height="32" alt="Epoch_num=55_ddpm_grid" src="https://github.com/user-attachments/assets/44d579b3-5ff0-4d44-97c8-8091a4f95395" />
